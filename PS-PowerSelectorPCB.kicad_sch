@@ -5,302 +5,6 @@
 	(uuid "2c6c62a0-836d-46e8-bf09-ce486c08f53d")
 	(paper "A4")
 	(lib_symbols
-		(symbol "100DP1T2B4VS2QE:100DP1T2B4VS2QE"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at 21.59 15.24 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "100DP1T2B4VS2QE"
-				(at 21.59 12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "100DP1T2B4VS2QE"
-				(at 21.59 -87.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100DP1T2B4VS2QE.pdf"
-				(at 21.59 -187.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "TOGGLE, 5A, 120VAC/28VDC DPDT, On-On Through Hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "25.49"
-				(at 21.59 -387.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 21.59 -487.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 21.59 -587.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "E-Switch"
-				(at 21.59 -687.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "100DP1T2B4VS2QE"
-				(at 21.59 -787.3 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "100DP1T2B4VS2QE_1_1"
-				(rectangle
-					(start 5.08 10.16)
-					(end 20.32 -12.7)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "MH1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "MH3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 15.24 270)
-					(length 5.08)
-					(name "NC1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -17.78 90)
-					(length 5.08)
-					(name "NC2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 15.24 270)
-					(length 5.08)
-					(name "COM1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 -17.78 90)
-					(length 5.08)
-					(name "COM2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 15.24 270)
-					(length 5.08)
-					(name "NO1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 -17.78 90)
-					(length 5.08)
-					(name "NO2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 0 180)
-					(length 5.08)
-					(name "MH2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -2.54 180)
-					(length 5.08)
-					(name "MH4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "3568:3568"
 			(pin_names
 				(offset 1.016)
@@ -2569,26 +2273,6 @@
 		(uuid "12816be5-dc23-4bf7-8f53-7bc3ff691d98")
 	)
 	(no_connect
-		(at 175.26 83.82)
-		(uuid "279166ed-3dc5-4534-8d61-25d25a1b6f17")
-	)
-	(no_connect
-		(at 160.02 99.06)
-		(uuid "3d175eb6-8c3e-4c5e-a324-3865eb73c628")
-	)
-	(no_connect
-		(at 149.86 81.28)
-		(uuid "a0b21a31-bb6f-43a1-8ae2-e1ded8b6c181")
-	)
-	(no_connect
-		(at 149.86 83.82)
-		(uuid "b8d67b93-3397-4e3b-92c8-dfe5f88d1771")
-	)
-	(no_connect
-		(at 175.26 81.28)
-		(uuid "be2cc793-73d1-4bdb-8a5d-5b8b334a6401")
-	)
-	(no_connect
 		(at 57.15 114.3)
 		(uuid "d81b3286-d842-430a-b675-b56403c28839")
 	)
@@ -2654,16 +2338,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 59.69) (xy 165.1 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e487ce2-1b7f-4f94-ac31-9a9d22e6a703")
-	)
-	(wire
-		(pts
 			(xy 148.59 151.13) (xy 148.59 147.32)
 		)
 		(stroke
@@ -2671,16 +2345,6 @@
 			(type default)
 		)
 		(uuid "372bc216-cc5b-41df-b565-9a2682f6b5af")
-	)
-	(wire
-		(pts
-			(xy 165.1 99.06) (xy 165.1 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "37b05b09-f013-4e89-8d6a-5c68840c3b32")
 	)
 	(wire
 		(pts
@@ -2721,16 +2385,6 @@
 			(type default)
 		)
 		(uuid "5302461e-ed6f-4be1-a79f-d42f96273038")
-	)
-	(wire
-		(pts
-			(xy 160.02 64.77) (xy 160.02 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56417257-2e43-408f-a4e9-71595e2c6bca")
 	)
 	(polyline
 		(pts
@@ -2832,16 +2486,6 @@
 		)
 		(uuid "7748890a-2feb-4d23-86cf-2d67ca11737b")
 	)
-	(wire
-		(pts
-			(xy 162.56 62.23) (xy 162.56 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77fee7b3-066a-4aa3-816f-2e724148745b")
-	)
 	(polyline
 		(pts
 			(xy 34.925 76.2) (xy 40.64 76.2)
@@ -2851,16 +2495,6 @@
 			(type default)
 		)
 		(uuid "894769ca-9436-4d1c-900b-b73ad0b7aab2")
-	)
-	(wire
-		(pts
-			(xy 162.56 99.06) (xy 162.56 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a64615d5-80be-438a-9a8e-e411ce6e79c0")
 	)
 	(wire
 		(pts
@@ -3193,16 +2827,6 @@
 		)
 		(uuid "42a356d9-ea07-4b8b-8c1a-76bde8fa165d")
 	)
-	(label "LV_EN_FUSED"
-		(at 162.56 62.23 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4dde2f4a-801e-449d-bf44-8f74d65069d5")
-	)
 	(label "LV_EN_IN"
 		(at 43.18 71.12 0)
 		(effects
@@ -3212,16 +2836,6 @@
 			(justify left bottom)
 		)
 		(uuid "5db15134-5c91-4a55-a92b-bfd162ffcb57")
-	)
-	(label "LV_EN_SUPP"
-		(at 160.02 64.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "67209e0e-ffef-4de3-b48b-3fab3fcd6d1d")
 	)
 	(label "LED+"
 		(at 146.05 143.51 0)
@@ -3263,17 +2877,6 @@
 			(justify right bottom)
 		)
 		(uuid "7e7bf9e8-745e-459e-8b46-0a136eaa622a")
-	)
-	(label "SC_Fused"
-		(at 162.56 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify right bottom)
-		)
-		(uuid "7f06077c-90f5-4d2c-8037-a2d7aa91fc99")
 	)
 	(label "SC_Fused"
 		(at 39.37 116.84 180)
@@ -3389,16 +2992,6 @@
 			(justify left bottom)
 		)
 		(uuid "ebb2bf99-be82-4ba0-9b4c-3c1b8dc704b4")
-	)
-	(label "LV_EN_PS"
-		(at 165.1 59.69 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f2f3f745-2245-4a1e-a112-79b21bf080b7")
 	)
 	(symbol
 		(lib_id "Device:R_US")
@@ -4119,8 +3712,8 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bd518be-8f52-4afe-8484-9c0eb6d5c9c9")
 		(property "Reference" "SW1"
@@ -4410,72 +4003,6 @@
 			(project "PS-PowerSelectorPCB"
 				(path "/2c6c62a0-836d-46e8-bf09-ce486c08f53d"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 165.1 104.14 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5a886023-4d65-45a9-88be-881c24f15652")
-		(property "Reference" "#PWR017"
-			(at 168.91 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "SuppChargerOut+"
-			(at 161.798 103.886 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 165.1 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea315013-931f-421f-a0ae-f671e477049e")
-		)
-		(instances
-			(project "PS-PowerSelectorPCB"
-				(path "/2c6c62a0-836d-46e8-bf09-ce486c08f53d"
-					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -6274,157 +5801,13 @@
 		)
 	)
 	(symbol
-		(lib_id "100DP1T2B4VS2QE:100DP1T2B4VS2QE")
-		(at 149.86 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e765d22f-979b-492a-b614-405db91a7e15")
-		(property "Reference" "S1"
-			(at 180.34 74.8598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100DP1T2B4VS2QE"
-			(at 180.34 77.3998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "footprints:100DP1T2B4VS2QE"
-			(at 171.45 168.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100DP1T2B4VS2QE.pdf"
-			(at 171.45 268.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A, 120VAC/28VDC DPDT, On-On Through Hole"
-			(at 149.86 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "25.49"
-			(at 171.45 468.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 171.45 568.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 171.45 668.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 171.45 768.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100DP1T2B4VS2QE"
-			(at 171.45 868.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "8aea8567-97ee-40f0-a640-d9d436b46d94")
-		)
-		(pin "6"
-			(uuid "d47804c3-f40b-4fae-932e-a6adcda70a3d")
-		)
-		(pin "9"
-			(uuid "20d3b325-f40d-4818-943d-b5dcc6607945")
-		)
-		(pin "1"
-			(uuid "4e4a819f-18d5-4636-a2d9-15d6562799f4")
-		)
-		(pin "2"
-			(uuid "cb427e6b-e5a9-4b86-ab52-80a8950124cc")
-		)
-		(pin "4"
-			(uuid "f1a665dd-e190-48fe-aaf1-82fe1f3bce4a")
-		)
-		(pin "8"
-			(uuid "efefc399-c5ef-4fe3-ac85-f54837f9ac32")
-		)
-		(pin "7"
-			(uuid "3779a56b-866a-43d7-a518-da0487b2f5b5")
-		)
-		(pin "5"
-			(uuid "1f8b6ca0-1990-4528-99aa-1e18c7839d50")
-		)
-		(pin "10"
-			(uuid "fbc3c201-a4d2-4b97-a684-500b22e556d4")
-		)
-		(instances
-			(project ""
-				(path "/2c6c62a0-836d-46e8-bf09-ce486c08f53d"
-					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_DPDT_x2")
 		(at 52.07 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
-		(dnp yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "ebdc3afb-f536-49f8-849e-85dfb62e6de0")
 		(property "Reference" "SW1"
 			(at 52.07 92.71 0)
