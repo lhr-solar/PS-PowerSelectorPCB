@@ -2084,16 +2084,6 @@
 		)
 		(uuid "5f71d755-d0f3-47a6-9bb3-546a3df716f8")
 	)
-	(text "check this ptc fuse"
-		(exclude_from_sim no)
-		(at 115.824 92.202 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6d5e336b-1e71-4619-94ff-3113ddb9fd26")
-	)
 	(text "XT60\n"
 		(exclude_from_sim no)
 		(at 117.856 23.876 0)
@@ -3048,6 +3038,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "CRCW06031K00FKEI"
+			(at 116.84 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b069366-53b7-4182-abf9-4e3353d1db77")
 		)
@@ -3323,7 +3322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Red LED, P/N: NCD0603R1"
+		(property "Description" "Red LED"
 			(at 116.84 146.05 0)
 			(effects
 				(font
@@ -3332,7 +3331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "P/N" "NCD0603R1"
 			(at 116.84 146.05 0)
 			(effects
 				(font
@@ -3544,6 +3543,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "1053091206"
+			(at 69.85 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2f6c5b87-8462-43c2-80d3-f74580d59066")
 		)
@@ -3616,8 +3624,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "MF-USHT010KX/36-2"
+		(property "Description" "PTC fuse"
 			(at 114.3 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "SMD1210B005TF"
+			(at 114.3 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3905,7 +3922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Blue LED, P/N: XL-1608UBC-06A"
+		(property "Description" "Blue LED"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -3914,7 +3931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "P/N" "XL-1608UBC-06A"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -3993,6 +4010,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "CRCW06031K00FKEI"
+			(at 97.79 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d5119f2-1444-4605-986c-22af07b7f21a")
 		)
@@ -4053,7 +4079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SMD fuse holder"
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -4062,47 +4088,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C"
-			(at 114.3 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Keystone"
-			(at 114.3 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "3568"
-			(at 114.3 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37 mm"
-			(at 114.3 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
+		(property "P/N" "3568"
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -4178,8 +4164,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1N5819HW-7-F"
+		(property "Description" ""
 			(at 143.51 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "1N5819HW-7-F"
+			(at 143.51 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4405,6 +4400,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "XT30UPB-M"
+			(at 53.34 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3941c274-999d-46f8-9411-ca555298c57d")
 		)
@@ -4606,6 +4610,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "CRCW06031K00FKEI"
+			(at 48.26 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2e77d01-73d1-4aaf-9e2b-e7abe81d8a1c")
 		)
@@ -4734,6 +4747,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 118.11 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "XT30UPB-M"
 			(at 118.11 43.18 0)
 			(effects
 				(font
@@ -4936,7 +4958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Red LED, P/N: NCD0603R1"
+		(property "Description" "Red LED"
 			(at 97.79 146.05 0)
 			(effects
 				(font
@@ -4945,7 +4967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "P/N" "NCD0603R1"
 			(at 97.79 146.05 0)
 			(effects
 				(font
@@ -5016,6 +5038,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 118.11 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "XT60-M"
 			(at 118.11 27.94 0)
 			(effects
 				(font
@@ -5225,6 +5256,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "CRCW06031K00FKEI"
+			(at 29.21 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3576f640-f032-4213-82e8-03c24e0509de")
 		)
@@ -5286,7 +5326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Red LED, P/N: NCD0603R1"
+		(property "Description" "Red LED"
 			(at 78.74 146.05 0)
 			(effects
 				(font
@@ -5295,7 +5335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
+		(property "P/N" "NCD0603R1"
 			(at 78.74 146.05 0)
 			(effects
 				(font
@@ -5564,7 +5604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Blue LED, P/N: XL-1608UBC-06A"
+		(property "Description" "Blue LED"
 			(at 29.21 146.05 0)
 			(effects
 				(font
@@ -5573,8 +5613,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 29.21 146.05 0)
+		(property "P/N" "XL-1608UBC-06A"
+			(at 29.21 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5716,6 +5756,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "XT60-M"
+			(at 53.34 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3486662c-f2d7-4500-91d8-2527ae9e5421")
 		)
@@ -5777,6 +5826,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 69.85 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "1053091202"
 			(at 69.85 86.36 0)
 			(effects
 				(font
@@ -5943,6 +6001,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "CRCW06031K00FKEI"
+			(at 78.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9ef9157f-62d4-4ecf-9d08-872205309716")
 		)
@@ -6004,8 +6071,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1N5819HW-7-F"
+		(property "Description" ""
 			(at 148.59 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "1N5819HW-7-F"
+			(at 148.59 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)

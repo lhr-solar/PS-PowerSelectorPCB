@@ -64,7 +64,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -313,6 +312,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C9900110665"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d6007445-48f4-478a-96fb-39328ea9c9ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/be81a446-9a20-4792-b85a-bb79b45b75b5")
 		(sheetname "/")
@@ -507,6 +518,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "baf75ed5-9f2a-453f-b6bf-0f80c47b1a08")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C9900110665"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e49fbcec-d3ad-4f74-bbbd-f0470e3ddc5b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1672,6 +1695,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C9900110665"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a9fc097c-bed7-47cd-bed9-2ccf03dee7c5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/002f588e-d6e0-4a32-af62-4d50c98d629a")
 		(sheetname "/")
@@ -2102,6 +2137,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "afb481c7-22cd-4685-93ed-9b477db89fb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C9900110665"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "c1c9651c-67ce-4c6f-bbe8-19b999cbe431")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7037,6 +7084,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C82544"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "17007cb0-67f5-4cbd-a56b-c1bfced04f11")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5dfadde0-137b-484a-8def-bc493919db57")
 		(sheetname "/")
@@ -7313,6 +7372,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58120236-0159-4f7b-a301-cbf6f1033800")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C82544"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6cac5575-cc96-4b93-959a-168d8ca1ca6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7664,6 +7735,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C5249699"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "a4cdae17-b563-46f3-8a00-71d8deda3163")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5d69ae39-061e-4b42-8657-b18f6662b80f")
 		(sheetname "/")
 		(sheetfile "PS-PowerSelectorPCB.kicad_sch")
@@ -7899,6 +7982,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f857999d-3b0b-4fcb-871d-d3d2fc709320")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C9900110665"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9d5748fe-ce57-4d6d-a1c1-b16a39a07c34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10210,6 +10305,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C269156"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "37aba677-8222-4766-8aba-20768b1c4371")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "*polyfuse* *PTC*")
