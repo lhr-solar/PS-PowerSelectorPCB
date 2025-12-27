@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,Charging,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,85.3,-106.05,0.0,top
+D2,PS_In,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,107.25,-106.05,0.0,top
+D3,LV_EN,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,96.275,-106.05,0.0,top
+D4,PS_Sel,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,101.7625,-106.1,0.0,top
+D5,Supp_Sel,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,90.7875,-106.05,0.0,top
+D6,D_Schottky,D_SOD-123,106.3,-99.2,180.0,top
+D7,D_Schottky,D_SOD-123,106.3,-101.7,180.0,top
+F1,5A,FUSE_3568,95.3,-99.6,0.0,top
+F2,100mA,Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder,82.3,-105.5,90.0,bottom
+J1,SuppChargerIn,AMASS_XT60-M_1x02_P7.20mm_Vertical,88.7,-90.05,0.0,top
+J2,PowerSupplyIn,AMASS_XT30UPB-M_1x02_P5.0mm_Vertical,104.45,-87.75,0.0,top
+J3,SuppChargerOut,AMASS_XT60-M_1x02_P7.20mm_Vertical,114.5,-111.7,270.0,bottom
+J4,PowerSupplyOut,AMASS_XT30UPB-M_1x02_P5.0mm_Vertical,115.9,-96.1,270.0,bottom
+J5,Signals,Molex_Nano-Fit_105309-xx06_1x06_P2.50mm_Vertical,78.715,-111.25,0.0,bottom
+J6,HV_Lockout,Molex_Nano-Fit_105309-xx02_1x02_P2.50mm_Vertical,78.545,-98.1,0.0,bottom
+LOGO2,Hallock,Hallock_Image_Tiny,100.519857,-108.122932,270.0,bottom
+R1,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,85.3,-107.625,0.0,top
+R2,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,107.225,-107.625,0.0,top
+R3,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,96.25,-107.625,0.0,top
+R4,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,101.75,-107.675,0.0,top
+R5,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,90.775,-107.625,0.0,top
+SW1,Power Source Selector,100DP1T2B4VS2QE,95.875,-116.985,0.0,top
